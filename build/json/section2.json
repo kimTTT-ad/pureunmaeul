@@ -1,0 +1,8 @@
+{
+    "section2": {
+        "글번호":1,
+        "타이틀":"Lorem ipsum dolor sit amet consectetur adipisicing elit.", 
+        "내용":"Illum placeat ipsa eos neque illo, voluptates excepturi modi molestiae nostrum accusamus cum corporis? Dolorem praesentium facilis enim reiciendis aut tempora provident corporis, voluptatibus quidem minima ea fuga, quam distinctio!", 
+        "이미지":"./images/banner.jpg"
+    }
+}
